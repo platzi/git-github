@@ -14,6 +14,18 @@ Puedes verla [aquí](/miSitio/).
 
 Una API básica con solo tres métodos de prueba. ¡Lo que importa es aprender de Github ahora!
 
+Si quieres probarla en modo local solo necesitas escribir los comandos:
+
+```bash
+pip install -r requirements.txt
+```
+
+Y luego podrás ejecutar la aplicación usando [uvicorn](https://www.uvicorn.org/).
+
+```bash
+uvicorn app:app --reload
+```
+
 Puedes verla [aquí](/API_Python/).
 
 ## Paquete de PIP
