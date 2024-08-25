@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
-Name: paquete-amin
+Name: paquetePlatzi
 Version: 0.1.0
 Summary: Un paquete pip simple de saludo
-Home-page: https://github.com/aminespinoza10/paquete_amin
+Home-page: https://github.com/platzi/git-github
 Author: Amin Espinoza
-Author-email: amin@example.com
+Author-email: amin@platzi.com
 License: UNKNOWN
 Platform: UNKNOWN
 
