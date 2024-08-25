@@ -1,0 +1,6 @@
+setup.py
+mi_paquete/__init__.py
+paquete_amin.egg-info/PKG-INFO
+paquete_amin.egg-info/SOURCES.txt
+paquete_amin.egg-info/dependency_links.txt
+paquete_amin.egg-info/top_level.txt
