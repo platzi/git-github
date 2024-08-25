@@ -32,4 +32,36 @@ Puedes verla [aquí](/API_Python/).
 
 Un paquete muy simple de PIP que servirá para crear un artefacto. ¿Te imaginas publicando tu primer paquete PIP?
 
-Puedes verla aquí.
+Todos los archivos preconstruidos están ya cargados en este repo, sin embargo los únicos dos que necesitas son **setup.py** y el contenido de la carpeta **mi_paquete**, todo lo demás lo puedes borrar.
+
+Modifica **setup.py** con tu propia información.
+
+```python
+from setuptools import setup, find_packages
+
+setup(
+    name="paquete_amin",                                    # Nombre del paquete
+    version="0.1.0",                                        # Versión inicial
+    packages=find_packages(),                               # Paquetes a incluir
+    description="Un paquete pip simple de saludo",          # Breve descripción
+    author="Amin Espinoza",                                 # Tu nombre
+    author_email="amin@example.com",                        # Tu correo electrónico
+    url="https://github.com/aminespinoza10/paquete_amin",   # URL del proyecto
+)
+```
+
+Después de eso si es necesario, instala las herramientas adecuadas para empaquetar el proyecto.
+
+```bash
+pip install setuptools wheel
+```
+
+Empaqueta tu proyecto.
+
+```bash
+python setup.py sdist bdist_wheel
+```
+
+Aquí es donde están todos los archivos de esta carpeta y donde la clase comenzará.
+
+Puedes verla [aquí](/Paquete/).
