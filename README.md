@@ -1,5 +1,5 @@
 # Iniciando Git
-mi primera contribucion
+mi primera contribucion.
 adicionando texto desde el reposotorio en linea
 # Contenido de este repositorio
 
