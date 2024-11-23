@@ -1,3 +1,5 @@
+# Iniciando Git
+mi primera contribucion
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
