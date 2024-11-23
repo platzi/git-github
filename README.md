@@ -1,3 +1,6 @@
+# Cambios sugeridos  en rama principal
+Sugiero cambios desde la rama developer_01
+para rama main
 # Agergando los primeras lineas al repositorio
 Lineas insertadas para ser aprobadas
 # Contenido de este repositorio
