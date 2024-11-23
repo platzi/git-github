@@ -1,3 +1,5 @@
+# Sugerencia para README.md
+suguiero nuevos cambios mas tecnicos para su desarrollo
 # Agergando los primeras lineas al repositorio
 Lineas insertadas para ser aprobadas
 # Contenido de este repositorio
