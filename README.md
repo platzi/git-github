@@ -6,6 +6,8 @@ un commit mas desde Github
 
 Una actialización de mis cambios
 
+cambios desde mi rama local desde developer01 
+
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
