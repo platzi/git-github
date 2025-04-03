@@ -65,3 +65,8 @@ python setup.py sdist bdist_wheel
 Aquí es donde están todos los archivos de esta carpeta y donde la clase comenzará.
 
 Puedes verla [aquí](/Paquete/).
+
+### Nuestro Lugar de confianza de aprenzizaje  
+Si quieres usar el badge de platzi puedes tomarlo y cambiarle el link 
+Ex: Estudiante de :
+[![Platzi](https://img.shields.io/badge/Platzi-Aprende%20sin%20límites-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/)
