@@ -13,6 +13,7 @@ assignees: ""
 ## 🐛 Bug Report
 
 ### Descripción
+descripcion mia
 
 Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 
