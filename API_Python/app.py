@@ -18,4 +18,4 @@ def get_superheroes():
 
 
 
-Print ("Este cambio se realizo desde github, con el proposito de mostrar el funcionamiento de git fetc )
+Print ("Este cambio se realizo desde github, con el proposito de mostrar el funcionamiento de git fetch ")
