@@ -1,0 +1,25 @@
+name: Trigger Playwright Tests
+
+on:
+  push:
+    branches: [ develop ]
+  workflow_dispatch:
+
+jobs:
+  trigger-playwright:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Playwright Tests
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PLAYWRIGHT_REPO_TOKEN }}
+          repository: Luismi9201/playwright_test
+          event-type: trigger-playwright-tests
+          client-payload: |
+            {
+              "source_repo": "${{ github.repository }}",
+              "source_branch": "${{ github.ref_name }}",
+              "source_commit": "${{ github.sha }}",
+              "triggered_by": "${{ github.actor }}"
+            }
+
