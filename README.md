@@ -91,5 +91,5 @@ Puedes verla [aquí](/Paquete/).
 
 ## Más información
 - Esto es un fork del repo original
-
+- Su propósito es tratear con comandos de Git y practicar casos de uso habituales en un workflow colaborativo
 
