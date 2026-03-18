@@ -89,7 +89,7 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 
 Puedes verla [aquí](/Paquete/).
 
-##Más información
+## Más información
 - Esto es un fork del repo original
 
 
