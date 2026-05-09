@@ -23,3 +23,5 @@ Vincula cualquier ticket o issue relacionado con este Pull Request usando `#` se
 ### Otros comentarios
 Si alguien tiene una duda, que hable ahora o calle para siempre.
 
+###
+Cambiado de comandos para nuevo proyecto
