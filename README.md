@@ -29,7 +29,7 @@ alias gbranch='git branch'
 
 ## Plantilla web para presentación
 
-Una muy colorida plantilla HTML básica para lograr una muy buena presentación y llevar a tu audiencia a todos tus canalaes sociales.
+Una muy colorida plantilla HTML básica para lograr una muy buena presentación y llevar a tu audiencia a todos tus canales sociales.
 
 Puedes verla [aquí](/miSitio/).
 
