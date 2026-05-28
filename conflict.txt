@@ -1,3 +1,6 @@
 original line
 
 second change from main
+changes from dev branch
+
+I can modify here the last file version. The file will be ready to merge
