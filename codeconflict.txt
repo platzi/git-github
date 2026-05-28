@@ -1,1 +1,3 @@
 hello from VS code
+
+second change from main change to generate a conflict
