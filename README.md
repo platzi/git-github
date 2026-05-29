@@ -8,6 +8,8 @@ Los proyectos son los siguientes:
 
 ## Contribuciones
 
+Commit desde Github.
+
 ¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
 
 este es un cambio desde  la rama: mau_dev blabla agrego más cosas desde local
