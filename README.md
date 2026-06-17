@@ -91,4 +91,5 @@ Puedes verla [aquí](/Paquete/).
 
 michael beltran
 git pull
+git fetch
 
