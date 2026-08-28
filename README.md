@@ -10,6 +10,13 @@ Los proyectos son los siguientes:
 
 este es un cambio desde  la rama: mau_dev blabla agrego más cosas desde local
 
+Esta es mi 1era contribución en este repo.
+
+Un commit más desde mi cuenta de github
+
+Cambios nuevos desde mi rama local develope01 v.3 realizados una vez mas
+UNA ACTUALIZACIÓN MÁS desde cuenta github.
+
 ## lista de ALIAS para usar en un .zshrc 
 ```
 # Git
