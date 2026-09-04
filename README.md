@@ -8,6 +8,7 @@ Los proyectos son los siguientes:
 
 Mi primer repositorio a nivel del curso de git hub 
 Ahora estoy haciendo cambio desde github directamente 
+Una actualziación para realizar con git fetch 
 
 ¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
 
