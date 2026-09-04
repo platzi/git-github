@@ -6,7 +6,8 @@ Los proyectos son los siguientes:
 
 ## Contribuciones
 
-Mi primer repositorio a nivel del curso de git hub
+Mi primer repositorio a nivel del curso de git hub 
+Ahora estoy haciendo cambio desde github directamente 
 
 ¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
 
