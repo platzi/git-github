@@ -6,6 +6,8 @@ Los proyectos son los siguientes:
 
 ## Contribuciones
 
+Mi primer repositorio a nivel del curso de git hub
+
 ¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
 
 este es un cambio desde  la rama: mau_dev blabla agrego más cosas desde local
