@@ -4,6 +4,8 @@ Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
 Los proyectos son los siguientes:
 
+Cambios desde mi rama local llamada developer01
+
 ## Contribuciones
 
 Mi primer repositorio a nivel del curso de git hub 
