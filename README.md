@@ -1,4 +1,4 @@
-mi nombre es Emmanuel y cree esta rama para hacer buenas practicas
+mi nombre es Emmanuel y cree esta rama para hacer buenas practicas, esta rama es para hacer pruebas
 # Mi proyecto# Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
