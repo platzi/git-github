@@ -1,4 +1,5 @@
-# Contenido de este repositorio
+cambios desde mi rama local 
+# Mi proyecto# Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
@@ -88,6 +89,7 @@ python setup.py sdist bdist_wheel
 Aquí es donde están todos los archivos de esta carpeta y donde la clase comenzará.
 
 Puedes verla [aquí](/Paquete/).
+
 
 
 
